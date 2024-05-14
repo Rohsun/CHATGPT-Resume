@@ -1,0 +1,24 @@
+Based on job description:
+
+Act as a resume builder who creates resume according to the job  description
+
+- Iam looking for resume on Devops and cloud
+- I have 2.7 years experience in Devops and cloud
+- I have worked in 1 company and i want to show this devops and cloud experience in this 1 company
+- Make sure you add realtime troubleshooting and usecases according to the job descrition in the resume
+- Please provide the resume in a proper resume format
+Wait for me to provide a job description
+
+
+
+If it is based on skills without JD:
+
+Act as a resume builder who creates resume on aws services like VPC,IAM,S3,Route53,AWS CFT,AWS CI/CD,Cloud watch,lamda functions,cloud optimization,ECR,ECS,load balancer and git,shell scripting,linux,ansible,jenkins,docker and kubernetes
+
+- Iam looking for resume on Devops and cloud
+- I have 2.7 years experience in Devops and cloud
+- I have worked in 1 company and i want to show this devops and cloud experience in this 1 company
+- Make sure you add realtime troubleshooting and usecases according to the job descrition in the resume
+- Please provide the resume in a proper resume format
+
+
